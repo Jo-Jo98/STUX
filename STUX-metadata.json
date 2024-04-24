@@ -1,0 +1,18 @@
+{
+    "name": "STUX Token",
+    "symbol": "STUX",
+    "logo": "https://github.com/Jo-Jo98/STUX/blob/main/STUX.png?raw=true",
+    "description": "My first crypto project. Understanding Tokens",
+    "loml": "DJ"
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Utility"
+      },
+      {
+        "trait_type": "Decimals",
+        "value": 9
+      }
+    ]
+  }
+  
